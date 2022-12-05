@@ -1,7 +1,0 @@
-###21/11/2022
-
-#Pensamento Computacional
-
-
-
-- Habilidade generalista: matemática, leitura, escrita.
